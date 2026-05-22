@@ -24,7 +24,23 @@ In the first sections of the code, I will synthetically generate patient-style t
 In this study, we will compare Decision Tree and Random Forest classifiers on synthetic patient-style tabular data. Due to the increased complexity of random forest models by decreasing variance while maintaining bias,bringing in improved accuracy and providing interpretable feature importance.
 
 
-## Project structure
+## UPDATED Project Structure (05.22.25 @ 5:17)
+```text
+my_project/
+├── data/
+│   └── titanic/
+│       └── train.csv
+├── notebooks/
+│   └── 01_titanic.ipynb
+├── src/
+│   ├── __init__.py
+│   ├── experiment.py
+│   ├── evaluation.py
+│   └── models.py
+└── results/
+```
+
+## OLD Project structure
 
 ```text
 classical-ML-baseline-code/
