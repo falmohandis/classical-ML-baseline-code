@@ -1,0 +1,4 @@
+Classical ML Baseline for Patient Risk Prediction
+Models compared: Decision Tree and Random Forest
+Decision Tree Accuracy: 0.7522
+Random Forest Accuracy: 0.7877
